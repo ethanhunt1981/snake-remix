@@ -33,8 +33,8 @@ An extended Snake remix built with vanilla JavaScript, clean architecture princi
 1. **Clone the repository**
 
    ```bash
-  git clone https://github.com/ethanhunt1981/snake-remix.git
-  cd snake-remix
+   git clone <https://github.com/ethanhunt1981/snake-remix.git>
+   cd snake-remix
    ```
 
 2. **Open in browser**
@@ -133,7 +133,7 @@ Potential features to add:
 
 ## 👤 Author
 
-**ethanhunt1981** (Remix based on Himanshu Varshney's original project)
+**Himanshu Varshney**
 
 ## 📝 License
 
