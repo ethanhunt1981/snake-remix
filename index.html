@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <style>
+    * {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+    }
+    body {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: black;
+    }
+
+    .game-state {
+      color: white;
+      font-size: 30px;
+      position: fixed;
+      left: 50%;
+      bottom: 20px;
+      text-align: center;
+      font-family: sans-serif;
+      transform: translateX(-50%);
+    }
+
+    .score {
+      color: white;
+      font-size: 50px;
+      position: fixed;
+      left: 20px;
+      top: 20px;
+      text-align: center;
+      font-family: sans-serif;
+    }
+
+    .maxscore {
+      color: white;
+      font-size: 50px;
+      position: fixed;
+      right: 20px;
+      top: 20px;
+      text-align: center;
+      font-family: sans-serif;
+    }
+
+    .score-text {
+      font-size: 20px;
+      text-transform: uppercase;
+    }
+  </style>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Snake Game By HV</title>
+  </head>
+  <body>
+    <div class="score">
+      <div id="score">00</div>
+      <div class="score-text">Score</div>
+    </div>
+
+    <div class="maxscore">
+      <div id="maxscore">00</div>
+      <div class="score-text">Max<br />Score</div>
+    </div>
+
+    <div class="game-state">
+      <div id="game-state">Press SPACE to Start</div>
+    </div>
+
+    <canvas id="gameCanvas"></canvas>
+    <script src="./main.js" type="module"></script>
+  </body>
+</html>
