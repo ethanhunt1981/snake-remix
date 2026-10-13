@@ -133,7 +133,7 @@ Potential features to add:
 
 ## 👤 Author
 
-**Himanshu Varshney**
+**ethanhunt1981** (Remix based on Himanshu Varshney's original project)
 
 ## 📝 License
 
