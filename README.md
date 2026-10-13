@@ -2,9 +2,9 @@
 
 An extended Snake remix built with vanilla JavaScript, clean architecture principles, and modern design patterns. Classic arcade movement meets tactical risk-reward decisions: walls make the board dangerous, while Superfood can save a snake that has grown too long.
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Architecture](https://img.shields.io/badge/Architecture-MVC-blue.svg)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Snake Game](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
+![Architecture](https://img.shields.io/badge/Architecture-MVC-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 🎮 Features
 
